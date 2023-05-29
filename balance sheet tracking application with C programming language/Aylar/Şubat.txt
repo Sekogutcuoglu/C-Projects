@@ -1,0 +1,5 @@
+1	araba	200
+2	okul-cocuk	250
+3	ev-mutfak	400
+4	araba-bakm	1200
+paza12	ev-araba	12

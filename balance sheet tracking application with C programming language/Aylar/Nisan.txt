@@ -1,0 +1,2 @@
+1	ev-okul-araba-cocuk	4000
+2	araba	200

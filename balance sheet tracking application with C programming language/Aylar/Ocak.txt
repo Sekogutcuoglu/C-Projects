@@ -1,0 +1,4 @@
+1	araba-okul	240
+2	ev	200
+3	alçsveris	124
+4	okul	230
